@@ -1,8 +1,8 @@
 #ingreso {
  	float: right;
-	width: 50%;
-	border: black 14px solid;
-    margin: 5%;
+	width: 60%;
+	border: red 16px solid;
+    margin: 3%;
     box-sizing: border-box;
 
 }
@@ -12,18 +12,18 @@
 }
 
 .container{
-	width: 80%;
+	width: 90%;
 	max-width: 1000px;
 	margin:0 auto;
 	overflow: hidden;
 }
 .main{
-	width: 70%;
+	width: 75%;
 	background: #fff;
 }
 aside{
-	width: 30%;
-	padding: 20px;
+	width: 35%;
+	padding: 24px;
 	box-sizing: border-box;
 }
 #imag{
@@ -52,29 +52,29 @@ aside{
 }
 #ingreso {
  	float: right;
-	width: 25%;
-	border: black 5px solid;
+	width: 35%;
+	border: red 10px solid;
     margin: 5%;
     box-sizing: border-box;
 
 }
 #pie{
-		border: black 5px solid;
+		border: white 10px solid;
 
 }
 
 .container{
-	width: 80%;
+	width: 90%;
 	max-width: 1000px;
 	margin:0 auto;
 	overflow: hidden;
 }
 .main{
-	width: 70%;
+	width: 80%;
 	background: #fff;
 }
 aside{
-	width: 30%;
+	width: 40%;
 	padding: 20px;
 	box-sizing: border-box;
 }
@@ -91,7 +91,7 @@ aside{
 		width: 100%;
 	}
 	#img{
-		width: 82%;
+		width: 85%;
 	}
 	
 }
